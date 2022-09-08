@@ -15,9 +15,9 @@ def on_release(key):
     print("{} imekuwa released".format(key_name))
     if str(key_name) == 'Key.esc':
        print("Exit!!!!")
-       retrurn False
+       return False
 
-with keyboard.Listerner(
+with keyboard.Listener(
      on_press = on_press,
      on_release = on_release) as listener:
      listener.join()

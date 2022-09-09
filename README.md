@@ -20,6 +20,12 @@ for pynput logger
  
 
 
+
+
+
+
+
+
 for pyperclip logger
 
 the script will track every copy & paste activity in your clipboard.
@@ -27,6 +33,7 @@ the script will track every copy & paste activity in your clipboard.
 $pip install pyperclip - https://pypi.org/project/pyperclip/
 
 
+![Screenshot (55)](https://user-images.githubusercontent.com/61822296/189404042-fd24f929-8d00-45f7-8be4-b9baa361d60c.png)
 
 
 
